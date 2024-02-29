@@ -57,7 +57,7 @@
             <configuration>
               <executable>/bin/bash</executable>
               <arguments>
-                <argument>${basedir}/infra/copygithook.sh</argument>
+                <argument>${basedir}/infra/copygithook</argument>
               </arguments>
             </configuration>
           </execution>
